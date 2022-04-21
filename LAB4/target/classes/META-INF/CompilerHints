@@ -1,0 +1,15 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,edu/ktu/ds/lab2/demo/Benchmark$FullSet.fillBstSet
+inline,edu/ktu/ds/lab2/demo/Benchmark$FullSet.fillTreeSet
+inline,edu/ktu/ds/lab2/demo/Benchmark$FullSet.generateElements
+inline,edu/ktu/ds/lab2/demo/Benchmark.generateElements
+inline,edu/ktu/ds/lab2/demo/Benchmark.getBenchmarkAVLTree
+inline,edu/ktu/ds/lab2/demo/Benchmark.getBenchmarkRBTree
+inline,edu/ktu/ds/lab2/demo/Benchmark.insertBenchmarkAVLTree
+inline,edu/ktu/ds/lab2/demo/Benchmark.insertBenchmarkRBTree
+inline,edu/ktu/ds/lab2/demo/Benchmark.removeBenchmarkAVL
+inline,edu/ktu/ds/lab2/demo/Benchmark.removeBenchmarkRBTree

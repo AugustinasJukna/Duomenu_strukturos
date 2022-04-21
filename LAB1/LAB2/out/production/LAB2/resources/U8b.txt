@@ -1,0 +1,9 @@
+Kaunas;295269
+Vilnius;544386
+Panevėžys;85885
+Klaipėda;152818
+Kėdainiai;22677
+Švenčionys;4065
+Marijampolė;34975
+Šiauliai;101511
+Plungė;23246

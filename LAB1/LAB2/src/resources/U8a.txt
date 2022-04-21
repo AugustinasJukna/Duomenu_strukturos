@@ -1,0 +1,10 @@
+﻿8 200
+Kaunas
+Kaunas;Vilnius;110
+Kaunas;Panevėžys;108
+Kaunas;Klaipėda;214
+Kaunas;Švenčionys;182
+Kaunas;Kėdainiai;56
+Vilnius;Klaipėda;286
+Marijampolė;Klaipėda;286
+Šiauliai;Plungė;102
